@@ -1,4 +1,4 @@
-# Voice SDR Agent — Trinity Bridge
+# Voice SDR Agent
 
 Signal-triggered outbound voice AI for B2B sales development. Built on Vapi + LiteLLM, targeting biotech/pharma/medtech quality and compliance decision-makers.
 
